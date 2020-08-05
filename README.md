@@ -23,6 +23,8 @@ yarn
 yarn start
 ```
 
+[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=http%3A%2F%2Flocalhost%3A3333&uri=https%3A%2F%2Fraw.githubusercontent.com%2Fericrocha97%2Fproffy-server%2Fmaster%2FInsomnia.json)
+
 ## Author
 
 👤 **Eric Rocha**
