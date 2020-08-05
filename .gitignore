@@ -2,5 +2,5 @@ node_modules/
 .vscode/
 
 
-src/database/database.sqlite
+src\database\database.sqlite
 
