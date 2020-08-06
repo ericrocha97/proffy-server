@@ -4,8 +4,8 @@
   <a href="#" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
   </a>
-  <a href="https://twitter.com/Eric\_\_Rocha" target="_blank">
-    <img alt="Twitter: Eric\_\_Rocha" src="https://img.shields.io/twitter/follow/Eric\_\_Rocha.svg?style=social" />
+  <a href="https://twitter.com/Eric__Rocha" target="_blank">
+    <img alt="Twitter: Eric__Rocha" src="https://img.shields.io/twitter/follow/Eric__Rocha.svg?style=social" />
   </a>
 </p>
 
@@ -30,7 +30,7 @@ yarn start
 👤 **Eric Rocha**
 
 * Website: https://ericrocha.dev/
-* Twitter: [@Eric\_\_Rocha](https://twitter.com/Eric\_\_Rocha)
+* Twitter: [@Eric__Rocha](https://twitter.com/Eric__Rocha)
 * Github: [@ericrocha97](https://github.com/ericrocha97)
 * LinkedIn: [@eric-rocha1997](https://linkedin.com/in/eric-rocha1997)
 
